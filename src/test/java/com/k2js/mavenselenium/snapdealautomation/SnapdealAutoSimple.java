@@ -16,6 +16,14 @@ public class SnapdealAutoSimple {
 		System.out.println("Git Trial2");
 		System.out.println("Git Trial3");
 		
+
+		System.out.println("Git Trial4");
+		System.out.println("Git Trial5");
+		System.out.println("Git Trial6");
+
+		System.out.println("Git Trial7");
+		System.out.println("Git Trial8");
+		System.out.println("Git Trial9");
 		
 		ChromeDriver cd = new ChromeDriver();
 		// cd.manage().deleteAllCookies();
