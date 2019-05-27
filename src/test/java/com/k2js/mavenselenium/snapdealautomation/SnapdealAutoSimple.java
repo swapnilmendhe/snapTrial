@@ -12,6 +12,11 @@ public class SnapdealAutoSimple {
 
 	public static void main(String[] args) throws InterruptedException {
 
+		System.out.println("Git Trial1");
+		System.out.println("Git Trial2");
+		System.out.println("Git Trial3");
+		
+		
 		ChromeDriver cd = new ChromeDriver();
 		// cd.manage().deleteAllCookies();
 		cd.get("https://www.snapdeal.com/");
